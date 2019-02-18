@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "fifthsage"
   avatar           :  "/assets/28280066_878892635644838_1589443051813728746_n.jpg"
-  bio              : "원스텝모어 CTO"
-  location         : "서울"
+  bio              : "개발은 archiving, 디자인은 study 그리고 글쓰기는 blogging"
+  location         : "서울, 제주"
   email            : "fifthsage@gmail.com"
   links:
     - label: "Email"
