@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "fifthsage"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/28280066_878892635644838_1589443051813728746_n.jpg"
   bio              : "원스텝모어 CTO"
   location         : "서울"
   email            : "fifthsage@gmail.com"
