@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Tech and Strudy"
+title                    : "Tech and Study"
 title_separator          : "-"
 name                     : "fifthsage"
 description              : "기술정리, 스터디 연재"
