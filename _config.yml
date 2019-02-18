@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Tech and Study"
+title                    : "개발+디자인+요리=풀스택"
 title_separator          : "-"
 name                     : "fifthsage"
-description              : "기술정리, 스터디 연재"
+description              : "개발은 archiving, 디자인은 study 그리고 글쓰기는 blogging"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
