@@ -42,9 +42,11 @@ private, protected 변수의 경우 getter와 setter로만 접근이 가능하�
 class Person
 {
   private $name;
+  
   public function getName(): string {
     return $this->name;
   }
+  
   public function setName(string $newName) {
     $this->name = $newName;
   }
