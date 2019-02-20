@@ -10,19 +10,19 @@ toc: true
 
 1. 기본
 
-``php
+```php
 int $integer;
-``
+```
 
 2. null 허용
 
-``php
+```php
 ?int $integer = null;
-``
+```
 
 3. 함수
 
-``php
+```php
 public function func(int $int): int {
   return $int;
 }
@@ -30,4 +30,4 @@ public function func(int $int): int {
 public function func(?int $int): ?int {
   return $int;
 }
-``
+```
