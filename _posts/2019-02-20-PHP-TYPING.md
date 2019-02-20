@@ -36,7 +36,7 @@ public function func(?int $int): ?int {
 타이핑 사용하지 않음
 
 ## visibility type typing
-private, protected 변수의 경우 getter와 setter로만 접근이 가능하기 때문에 return type과 parmeter type에 의해 결정이 되므로 typing이 되지 않는다.
+private, protected 변수의 경우 getter와 setter를 이용해 typing이 가능하다.
 
 ```php
 class Person
