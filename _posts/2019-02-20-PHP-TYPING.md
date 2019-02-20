@@ -32,7 +32,7 @@ public function func(?int $int): ?int {
 }
 ```
 
-## 복수 타입
+## 복수 타입, 객체 배열, 다차원 배열
 타이핑 사용하지 않음
 
 ## visibility type typing
