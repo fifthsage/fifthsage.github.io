@@ -28,7 +28,7 @@ express에서 업로드 받은 파일을 request body가 파싱을 하지 못하
 ## 해결
 
 router.js
-```nodejs
+```js
 import express from 'express'
 import axios from 'axios'
 const router = express.Router()
