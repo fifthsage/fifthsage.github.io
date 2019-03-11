@@ -42,7 +42,7 @@ const middleware2 = (req, res, next) => {
 })
 
 // 순서대로 미들웨어 수행
-router.use('path', middleware1, middleware2 (req, res, next) => {
+router.use('path', middleware1, middleware2, (req, res, next) => {
   console.log('route')
 })
 ```
