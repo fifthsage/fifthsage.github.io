@@ -10,22 +10,24 @@ categories:
 toc: true
 ---
 
-## Sublime Text 3
+# 환경설정
+
+##### Sublime Text 3
 코딩용 에디터중 가벼움과 확장 기능을 겸비
 syntax hilighting과 beutify 같은 기본적인 기능을 위해 사용
 
-### 설치
+##### 설치
 
 https://www.sublimetext.com/3
 
-### 필요한 플러그인 설치
+##### 필요한 플러그인 설치
 
 1. `cmd(ctrl)+shift+p`
 2. install package 입력
 3. prettify 입력
 4. 재시작
 
-## 시작
+###### 시작
 
 확장자가 html인 파일을 생성
 
