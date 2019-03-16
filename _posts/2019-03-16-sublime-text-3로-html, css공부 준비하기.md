@@ -18,7 +18,7 @@ syntax hilighting과 beutify 같은 기본적인 기능을 위해 사용
 
 ##### 설치
 
-https://www.sublimetext.com/3
+[link](https://www.sublimetext.com/3)
 
 ##### 필요한 플러그인 설치
 
@@ -33,5 +33,5 @@ https://www.sublimetext.com/3
 
 
 # 참고링크
-* https://cssreference.io/
-* https://internetingishard.com/
+* [link](https://cssreference.io/)
+* [link](https://internetingishard.com/)
