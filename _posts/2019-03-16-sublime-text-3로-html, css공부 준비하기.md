@@ -27,7 +27,7 @@ https://www.sublimetext.com/3
 3. prettify 입력
 4. 재시작
 
-###### 시작
+##### 시작
 
 확장자가 html인 파일을 생성
 
