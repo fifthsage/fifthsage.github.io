@@ -24,6 +24,7 @@ toc: true
 - supertest
 
 ## 폴더 구조
+.
 +-- __tests__
 |   +-- Feature
 |       +-- api.ts
