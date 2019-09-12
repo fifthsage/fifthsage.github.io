@@ -161,9 +161,9 @@ export default {
 };
 ```
 
-## __tests__
+## \_\_tests\_\_
 
-### __tests__/setup.ts
+### setup.ts
 test환경을 설정합니다.
 ```js
 process.env.NODE_ENV = "test";
