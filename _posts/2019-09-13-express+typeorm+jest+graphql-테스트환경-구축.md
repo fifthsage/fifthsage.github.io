@@ -25,19 +25,19 @@ toc: true
 
 ## 폴더 구조
 ```bash
-+-- __tests__
-|   +-- Feature
-|       +-- api.ts
-|       +-- login.test.ts
-|   +-- Unit
-|       +-- database.ts
-|       +-- loginService.test.ts
-|   +-- setup.ts
-+-- databaseConn.ts
-+-- server.ts
-+-- ormconfig.ts
-+-- package.json
-+-- ...
+├── __tests__
+│   ├── Feature
+│   │   ├──api.ts
+│   │   └── login.test.ts
+│   ├── Unit
+|   |   ├── database.ts
+|   |   └── loginService.test.ts
+|   └── setup.ts
+├── databaseConn.ts
+├── server.ts
+├── ormconfig.ts
+├── package.json
+└── ...
 ```
 
 ## root
