@@ -24,7 +24,7 @@ toc: true
 - supertest
 
 ## 폴더 구조
-.
+```bash
 +-- __tests__
 |   +-- Feature
 |       +-- api.ts
@@ -38,6 +38,7 @@ toc: true
 +-- ormconfig.ts
 +-- package.json
 +-- ...
+```
 
 ## root
 
